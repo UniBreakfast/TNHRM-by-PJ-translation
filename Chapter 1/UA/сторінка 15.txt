@@ -1,7 +1,7 @@
 // впевнений переклад пишемо, заміняючи речення оригіналу, непевний переклад пишемо, залишаючи оригінал, після нього, беручи його у квадратні дужки.
 
 
-Chapter One
+Розділ перший
 
 
 SYSTEM-BOUND: REALIZING RELATIONSHIPS
@@ -11,7 +11,7 @@ SYSTEM-BOUND: REALIZING RELATIONSHIPS
 For some strange reason, I can never be what I ought to be until you are what you ought to be.
 You can never be what you ought to be until I am what I ought to be.
 This is the interrelated structure of reality."[1]
-    — DR. MARTIN LUTHER KING JR.
+    — доктор Мартін Лютер Кінг.
 
 
 WHEN I WAS ELEVEN YEARS OLD, I was assaulted by a young black teenager who stole the expensive new bike my mother had recently bought for me.
